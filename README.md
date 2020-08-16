@@ -14,16 +14,15 @@ Clone do sistema de Feed do Instagram.
 
 Backend:
 Usando NodeJS com:
-
 Express
 Mongoose
 Multer
 Sharp
 CORS
 Socket.io
+
 Frontend:
 Feito com ReactJS usando:
-
 React Router DOM
 Axios
 socket.io-client
